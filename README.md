@@ -1,1 +1,1 @@
-# LogMessageTemplate
+# UiPathLogMessageTemplate
